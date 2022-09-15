@@ -1,0 +1,32 @@
+#lol{
+
+    left: 47%;
+    position: fixed;
+    top: -400%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+
+    color: green;
+    font-size: 70px;
+
+}
+
+body{
+    left: 50%;
+    position: fixed;
+    top: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    
+
+    background-color: lightgrey;
+
+}
+
+button{
+
+    background-color: lightgray;
+    border-radius: 5px;
+    border-color: blue;
+
+}
